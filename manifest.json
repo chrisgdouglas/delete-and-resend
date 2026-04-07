@@ -1,0 +1,14 @@
+{
+  "display_name": "Delete & Resend",
+  "loading_order": 20,
+  "requires": [],
+  "optional": [],
+  "dependencies": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "CD & OpenAI",
+  "version": "1.0.1",
+  "homePage": "https://example.invalid/delete-and-resend",
+  "auto_update": false,
+  "minimum_client_version": "1.12.0"
+}
