@@ -1,5 +1,5 @@
 # delete-and-resend
-SillyTavern Extension: Delete &amp; Reset
+SillyTavern Extension: Delete &amp; Resend
 
 Did you just spend twenty minutes crafting the perfect response in your current roleplay, only to have the API endpoint time out?
 
